@@ -10,4 +10,5 @@ I wonder if it's worth tracking academic papers that are also highly accessible 
 "Praising a student’s inherent ability has been shown to promote the fixed mindset, or the belief that intelligence is unchangeable, while praising a student’s strategies or effort promotes the growth mindset, or the belief that intelligence is malleable"
 
 ### [Implicit Theories About Willpower Predict Self-Regulation and Grades](https://psychology.stanford.edu/sites/all/files/Implicit%20Theories%20about%20Willpower%20Predict%20Self%20Regulation%20and%20Grades%20in%20Everyday%20_Job%20et%20al%202015%20.pdf)
-Believe you have will power, and you will have more will power.
+- Believe you have will power, and you will have more will power.
+- "It is thus well documented that self-control often suffers when self-control demands are high, both in laboratory and in everyday life settings."
