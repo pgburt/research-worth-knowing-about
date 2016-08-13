@@ -6,3 +6,5 @@ I wonder if it's worth tracking academic papers that are also highly accessible 
 ### [Subtle Linguistic Cues Affect Children’s Motivation](https://psychology.stanford.edu/sites/all/files/Suble%20linguistic%20cues%20impact%20children's%20motivation_0.pdf)
 "You are a good drawer" vs "You did a good drawing". More specific praise is better psychologically. When the generic case receives criticism, it affects self-worth.
 
+### [Brain Points: A Growth Mindset Incentive Structure Boosts Persistence in an Educational Game](https://psychology.stanford.edu/sites/all/files/brainpoints_chi.pdf)
+"Praising a student’s inherent ability has been shown to promote the fixed mindset, or the belief that intelligence is unchangeable, while praising a student’s strategies or effort promotes the growth mindset, or the belief that intelligence is malleable"
