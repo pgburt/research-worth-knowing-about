@@ -46,3 +46,8 @@ Adding money destroys social motivation, and turns the exchange into a financial
 > Finally, in mixed markets (payment was in the form of gifts but cost was also mentioned), the mere mention of monetary payment was sufficient to switch the perceived relationship from a social-market relationship to a money-market relationship. That is, money itself can be a cue to the type of exchange that individuals consider themselves to be in, which in turn influences their propensity to exert effort.
 
 Paying someone to do a mentally challenging task reduces effort. In the experiment, participants with no pay (or only social rewards) performed the task significantly longer.
+
+## Claudia Goldin
+[Orchestrating Impartiality: The Impact of "Blind" Auditions on Female Musicians ](http://scholar.harvard.edu/files/goldin/files/orchestrating_impartiality_the_effect_of_blind_auditions_on_female_musicians.pdf)
+
+Using a screen during symphony interviews has a positive effect on hiring women. They're 50% more likely to progress beyond the preliminary round. For final rounds, there is a "sevaral fold" increase in the likelihood of progression.
