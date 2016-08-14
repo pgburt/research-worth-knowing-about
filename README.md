@@ -15,7 +15,7 @@ Believe you have will power, and you will have more will power.
 > It is thus well documented that self-control often suffers when self-control demands are high, both in laboratory and in everyday life settings.
 
 ## Claudia Goldin
-[Orchestrating Impartiality: The Impact of "Blind" Auditions on Female Musicians ](http://scholar.harvard.edu/files/goldin/files/orchestrating_impartiality_the_effect_of_blind_auditions_on_female_musicians.pdf)
+### [Orchestrating Impartiality: The Impact of "Blind" Auditions on Female Musicians ](http://scholar.harvard.edu/files/goldin/files/orchestrating_impartiality_the_effect_of_blind_auditions_on_female_musicians.pdf)
 
 Using a screen during symphony interviews has a positive effect on hiring women. They're 50% more likely to progress beyond the preliminary round. For final rounds, there is a "sevaral fold" increase in the likelihood of progression.
 
