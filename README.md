@@ -16,11 +16,31 @@ Believe you have will power, and you will have more will power.
 
 ## Dan Ariely
 
-### 
+### [Wine Online: Search Costs Affect Competition on Price, Quality, and Distribution](http://web.mit.edu/ariely/www/MIT/Papers/wine.pdf)
 > We show four primary empirical results. First, for differentiated products like wines, lowering the cost of search for quality information reduced price sensitivity.
 
->Second, pricesensitivity for wines common to both stores increased whencross-store comparison was made easy, as many analystshave assumed. However, easy cross-store comparison hadno effect on price sensitivity for unique wines."
+> Second, pricesensitivity for wines common to both stores increased whencross-store comparison was made easy, as many analystshave assumed. However, easy cross-store comparison hadno effect on price sensitivity for unique wines."
 
->Third, makinginformation environments more transparent by lowering allthree search costs produced welfare gains for consumers.They liked the shopping experience more, selected winesthey liked more in subsequent tasting, and their retentionprobability was higher when they were contacted twomonths later and invited to continue using the electronicshopping service from home.
+> Third, makinginformation environments more transparent by lowering allthree search costs produced welfare gains for consumers.They liked the shopping experience more, selected winesthey liked more in subsequent tasting, and their retentionprobability was higher when they were contacted twomonths later and invited to continue using the electronicshopping service from home.
 
->Fourth, we examined the implicationsof these results for manufacturers and examinedhow market shares of wines sold by two stores or one wereaffected by search costs. When store comparison was diffi-cult, results showed that the market share of common wineswas proportional to share of distribution; but when storecomparison was made easy, the market share returns to distributiondecreased significantly. All these results suggestincentives for retailers carrying differentiated goods tomake information environments maximally transparent, butto avoid price competition by carrying more uniquemerchandise."
+> Fourth, we examined the implicationsof these results for manufacturers and examinedhow market shares of wines sold by two stores or one wereaffected by search costs. When store comparison was diffi-cult, results showed that the market share of common wineswas proportional to share of distribution; but when storecomparison was made easy, the market share returns to distributiondecreased significantly. All these results suggestincentives for retailers carrying differentiated goods tomake information environments maximally transparent, butto avoid price competition by carrying more uniquemerchandise."
+
+### [Effort for Payment: a Tale of Two Markets](http://web.mit.edu/ariely/www/MIT/Papers/2markets.pdf)
+
+> There are wealthy gentleman in England who drive four-horse passenger-coaches twenty or thirty miles on a daily line in the summer because the privilege costs them considerable money; but if they were offered wages for the service, that would turn it into work, and then they would resign.
+
+Mark Twain
+
+> A long history of research has demonstrated that rewards can decrease motivation and attitudes (Festinger & Carlsmith, 1959), alter self-perception (Bem, 1965), increase overjustification (Lepper et al., 1973), and turn feelings of competence into feelings of being controlled (Deci & Ryan, 1985). The debate over these findings (Eisenberger & Cameron, 1996; Ryan & Deci, 2000) has generally shifted to the question of what specific circumstances give rise to these counterintuitive effects.
+
+> One possible implication of the current results is that social rewards do not easily undermine intrinsic motivation.
+
+> A second implication is that the social aspects of reward are fragile and a social reward can easily be made into a nonsocial extrinsic reward by merely mentioning monetary circumstances or perhaps just promoting comparisons to other tasks or other individuals’ reward levels.
+
+Adding money destroys social motivation, and turns the exchange into a financial one.
+
+> When payments were given in the form of gifts (candy) or when payments were not mentioned, effort seemed to stem from altruistic motives and was largely insensitive to the magnitude of the payment. In contrast, when payments were given in the form of cash, effort seemed to stem from reciprocation motives and was sensitive to the magnitude of the payment. 
+
+> Finally, in mixed markets (payment was in the form of gifts but cost was also mentioned), the mere mention of monetary payment was sufficient to switch the perceived relationship from a social-market relationship to a money-market relationship. That is, money itself can be a cue to the type of exchange that individuals consider themselves to be in, which in turn influences their propensity to exert effort.
+
+Paying someone to do a mentally challenging task reduces effort. In the experiment, participants with no pay (or only social rewards) performed the task significantly longer.
