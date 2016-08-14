@@ -33,6 +33,8 @@ Mark Twain
 
 > A long history of research has demonstrated that rewards can decrease motivation and attitudes (Festinger & Carlsmith, 1959), alter self-perception (Bem, 1965), increase overjustification (Lepper et al., 1973), and turn feelings of competence into feelings of being controlled (Deci & Ryan, 1985). The debate over these findings (Eisenberger & Cameron, 1996; Ryan & Deci, 2000) has generally shifted to the question of what specific circumstances give rise to these counterintuitive effects.
 
+..
+
 > One possible implication of the current results is that social rewards do not easily undermine intrinsic motivation.
 
 > A second implication is that the social aspects of reward are fragile and a social reward can easily be made into a nonsocial extrinsic reward by merely mentioning monetary circumstances or perhaps just promoting comparisons to other tasks or other individuals’ reward levels.
