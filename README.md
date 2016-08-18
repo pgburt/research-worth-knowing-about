@@ -52,3 +52,9 @@ Adding money destroys social motivation, and turns the exchange into a financial
 
 Paying someone to do a mentally challenging task reduces effort. In the experiment, participants with no pay (or only social rewards) performed the task significantly longer.
 
+## By Topic (because, author unknown)
+
+### [Heidi vs Howard](http://www.theatlantic.com/sexes/archive/2013/03/are-successful-women-really-less-likable-than-successful-men/273926/)
+>[..] an experiment conducted in 2003 with business students. The researchers presented the students with a story of a successful entrepreneur. They told half the students that the entrepreneur's name was Heidi; they told the other half that it was Howard. Then they asked students their impressions of Heidi or Howard and discovered that though the participants rated them both as competent and worthy of respect,
+
+>Howard came across as a more appealing colleague. Heidi, on the other hand, was seen as selfish and not "the type of person you would want to hire or work for." The same data with a single difference--gender--created vastly different impressions.
